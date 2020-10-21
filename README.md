@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luanpiresbresolla" alt="luanpiresbresolla" /> </p>
 
 - 🔭 I’m currently studying Computer Science, in UNIFACVEST (Lages - SC, Brazil)!
-- 🌱 I’m currently learning Front-End and Back-End development 
+- 🌱 I'm currently focused on studies with Node.js, ReactJS e React Native. 
 - 👯 I’m looking to develop more projects by myself and learn new things
 - 🥅 My goals: Become a good developer in my stack and work with programming
 - ⚡ Fun fact: I love to play games, watch TV-series, animes and movies
@@ -18,7 +18,6 @@
 
 <h3>Languages and tools</h3>
 
-<img align="left" alt="Python" width="26px" src="https://github.com/luanpiresbresolla/luanpiresbresolla/raw/main/images/Python.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/luanpiresbresolla/luanpiresbresolla/raw/main/images/VScode.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://github.com/luanpiresbresolla/luanpiresbresolla/raw/main/images/HTML5.svg" />
 <img align="left" alt="CSS3" width="26px" src="https://github.com/luanpiresbresolla/luanpiresbresolla/raw/main/images/css3.png" />
