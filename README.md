@@ -23,7 +23,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://github.com/luanpiresbresolla/luanpiresbresolla/raw/main/images/css3.svg" />
 <img align="left" alt="NodeJS" width="26px" src="https://github.com/luanpiresbresolla/luanpiresbresolla/raw/main/images/nodejs.svg" />
 <img align="left" alt="React" width="26px" src="https://github.com/luanpiresbresolla/luanpiresbresolla/raw/main/images/react.svg" />
-<img align="left" alt="Git" width="26px" src="https://github.com/luanpiresbresolla/luanpiresbresolla/raw/main/images/GIT.png" />
+<img align="left" alt="Git" width="26px" src="https://github.com/luanpiresbresolla/luanpiresbresolla/raw/main/images/GIT.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br />
 <br />
